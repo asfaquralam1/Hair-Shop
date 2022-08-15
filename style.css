@@ -38,6 +38,7 @@
     margin: 0 10px;
     padding: 12px 0;
     color: #fff;
+    font-weight: 800;
     border: .5px solid #fff;
     position: relative;
     z-index: 1;
@@ -164,7 +165,7 @@ nav ul li a{
 .features h1{
     text-align: left;
     margin-bottom: 10px;
-    font-weight: 100;
+    font-weight: 800;
     color: #009688;
 }
 .features-desc{
@@ -183,6 +184,7 @@ nav ul li a{
 }
 .feature-text p{
     padding: 0 20px;
+    font-weight: 800;
     text-align: initial;
 }
 
@@ -232,7 +234,7 @@ nav ul li a{
     top: 0;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(rgba(0,0,0,0.5),#009688);
+    background: linear-gradient(rgba(0,0,0,0.5),#6e9600);
     opacity: 0;
     transition: 1s;
 }
@@ -302,6 +304,7 @@ hr{
     transition: transform 0.5s;
 }
 .testimonial-col p{
+    font-weight: 800;
     font-size: 14px;
 }
 .user{
@@ -320,6 +323,7 @@ hr{
     font-size: 20px;
 }
 .user-info small{
+    font-weight: 800;
     color: #009688;
 }
 .testimonial-col:hover{
@@ -356,6 +360,7 @@ hr{
     margin: 10px 0;
 }
 .footer-row p{
+    font-weight: 800;
     line-height: 35px;
 }
 .footer-left .fa,.footer-right .fa{
